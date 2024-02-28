@@ -1,0 +1,12 @@
+# Python-specific
+__pycache__/        # Python cache directory
+*.pyc               # Python compiled files
+*.pyo
+*.pyd
+
+# Environment
+venv/               # Python virtual environment
+.env                # Environment variables file
+
+# VSCode-specific
+.vscode/            # Visual Studio Code settings
